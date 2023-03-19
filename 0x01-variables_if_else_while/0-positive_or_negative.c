@@ -4,11 +4,9 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
-*
-*
-*
+* description
 */
-int main(void)
+int main(void) /* main description*/
 {
 int n;
 srand(time(0));

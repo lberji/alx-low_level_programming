@@ -7,6 +7,11 @@
 *
 * returne the result
 */
+/**
+*main description
+*main description
+*main description
+*/
 int main(void)
 {
 int n;

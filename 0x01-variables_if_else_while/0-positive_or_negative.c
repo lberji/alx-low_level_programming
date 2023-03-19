@@ -2,11 +2,6 @@
 #include <time.h>
 /* more headers goes there */
 #include <stdio.h>
-/**
-* positive negative programe detection
-*
-* returne the result
-*/
 /* main description */
 int main(void)
 {

@@ -1,10 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/**
-*positive negative programe
-*n=0
-*/
+/*positive negative programe */
 int main(void)
 {
 int n;

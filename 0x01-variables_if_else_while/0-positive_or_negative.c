@@ -3,9 +3,9 @@
 /* more headers goes there */
 #include <stdio.h>
 /**
-*positive negative programe detection
+* positive negative programe detection
 *
-* no discription found
+* returne the result
 */
 int main(void)
 {

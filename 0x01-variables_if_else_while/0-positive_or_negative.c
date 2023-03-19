@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
+/* more headers goes there */
 #include <stdio.h>
-/*positive negative programe */
+/*positive negative programe detection */
 int main(void)
 {
 int n;
